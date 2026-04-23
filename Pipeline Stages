@@ -1,6 +1,0 @@
-Bronze 
-Loading of the raw data into the script
-Silver
-Cleaning the data, as well as the addition of a couple extra columns of information
-Gold
-Save aggregated tables and KPI tables as parquet files
